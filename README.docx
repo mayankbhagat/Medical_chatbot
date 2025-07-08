@@ -1,0 +1,12 @@
+We identi ied the problem of misdirected appointments in healthcare and proposed 
+building a Medical Chatbot for Symptom Analysis that guides patients to the appropriate 
+specialist. 
+Objectives: 
+ 
+ 
+ 
+Understand patient-described symptoms via conversation. 
+Map symptoms to the correct medical department (e.g., Cardiology, Dermatology). 
+Reduce unnecessary or misdirected specialist visits. 
+We submitted a detailed proposal de ining the problem, objectives, required tools (IBM 
+Watson Assistant, watsonx.ai), and expected outcomes. 
